@@ -83,7 +83,7 @@
             <div class="card-body">
                 <h5 class="card-title">Appointment Scheduling</h5>
                 <p class="card-text">Schedule appointments for doctors and patients based on availability.</p>
-                <a href="schedule_appointment.php" class="btn btn-primary">Schedule Appointment</a>
+                <a href="scheduleAppointment.php" class="btn btn-primary">Schedule Appointment</a>
             </div>
         </div>
 
