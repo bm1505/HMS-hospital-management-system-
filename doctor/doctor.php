@@ -101,7 +101,7 @@
             <div class="card-body">
                 <h5 class="card-title">Electronic Medical Records</h5>
                 <p class="card-text">View and update patient medical history and doctor's notes.</p>
-                <a href="view_medical_records.php" class="btn btn-primary">View EMR</a>
+                <a href="emr.php" class="btn btn-primary">View EMR</a>
             </div>
         </div>
 
