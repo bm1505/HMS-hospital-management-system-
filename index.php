@@ -109,7 +109,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                     <div class="card-body">
                         <h5 class="card-title">Laboratory Module</h5>
                         <p class="card-text">Handle lab tests, samples, and result reporting.</p>
-                        <a href="laboratory/tests.php" class="btn btn-primary">Access</a>
+                        <a href="laboratory/laboratory.php" class="btn btn-primary">Access</a>
                     </div>
                 </div>
             </div>
@@ -121,7 +121,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                     <div class="card-body">
                         <h5 class="card-title">Patient Registration</h5>
                         <p class="card-text">Register new patients and manage check-ins and appointments.</p>
-                        <a href="registration/patient.php" class="btn btn-primary">Access</a>
+                        <a href="patient/patient.php" class="btn btn-primary">Access</a>
                     </div>
                 </div>
             </div>
