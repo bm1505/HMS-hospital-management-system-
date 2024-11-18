@@ -46,7 +46,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <!-- Centered Title -->
-            <span class="navbar-text mx-auto" style="font-weight: bold;">
+            <span class="navbar-text mx-auto" style="font-weight: bold; color: white;">
                 Pharmacy Module
             </span>
 

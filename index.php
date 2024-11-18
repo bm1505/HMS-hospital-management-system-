@@ -73,7 +73,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container">
             <!-- Centered Title -->
-            <h2 class="navbar-text mx-auto" style="font-weight: bold;">
+            <h2 class="navbar-text mx-auto" style="font-weight: 600; color: white;">
             Hospital Management System
             </h2>
         </div>
