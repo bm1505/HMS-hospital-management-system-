@@ -100,7 +100,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                     <div class="card-body">
                         <h5 class="card-title">Pharmacy Module</h5>
                         <p class="card-text">Manage inventory, prescriptions, and billing records.</p>
-                        <a href="pharmacy/inventory.php" class="btn btn-primary">Access</a>
+                        <a href="pharmacy/pharmacy.php" class="btn btn-primary">Access</a>
                     </div>
                 </div>
             </div>
