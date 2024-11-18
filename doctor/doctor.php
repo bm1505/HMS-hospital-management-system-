@@ -105,24 +105,6 @@
             </div>
         </div>
 
-        <!-- Prescription Management -->
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Prescription Management</h5>
-                <p class="card-text">Create prescriptions and send them directly to the pharmacy.</p>
-                <a href="prescribe_medication.php" class="btn btn-primary">Manage Prescriptions</a>
-            </div>
-        </div>
-
-        <!-- Laboratory Orders -->
-        <div class="card">
-            <div class="card-body">
-                <h5 class="card-title">Laboratory Orders</h5>
-                <p class="card-text">Order and review laboratory tests for patients.</p>
-                <a href="laboratory_orders.php" class="btn btn-primary">Manage Lab Orders</a>
-            </div>
-        </div>
-
     <!-- Footer -->
     <!-- <div class="footer text-center bg-dark">
         <p style="color: white;"><strong>Hospital Management System | &copy; Copyright 2024. All Rights Reserved.</strong></p>
