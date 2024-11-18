@@ -130,7 +130,7 @@ if (!isset($_SESSION['loggedin']) || $_SESSION['loggedin'] !== true) {
                     <div class="card-body">
                         <h5 class="card-title">Billing Module</h5>
                         <p class="card-text">Handle patient billing, insurance, and payment records.</p>
-                        <a href="billing/records.php" class="btn btn-primary">Access</a>
+                        <a href="billing/billing.php" class="btn btn-primary">Access</a>
                     </div>
                 </div>
             </div>
